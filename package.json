@@ -1,0 +1,25 @@
+{
+  "name": "javascript-fundamentals-course",
+  "version": "0.0.1",
+  "description": "Interactive JavaScript Fundamentals course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-wednesday-dude/javascript-fundamentals-course.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Open Source Course"
+  ],
+  "author": "Pelepei Oleksandr",
+  "bugs": {
+    "url": "https://github.com/the-wednesday-dude/javascript-fundamentals-course/issues"
+  },
+  "homepage": "https://github.com/the-wednesday-dude/javascript-fundamentals-course#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
